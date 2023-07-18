@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Fagner Felipe 🤜🤛
 ![Fagner GitHub stats](https://github-readme-stats.vercel.app/api?username=Fagner-Felipe&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fagner-Felipe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
